@@ -1,0 +1,12 @@
+{
+  "name": "sklearn-to-ts",
+  "description": "Train an sklearn model (MLP, Random Forest, etc.), export weights to JSON, and run inference in pure TypeScript with zero dependencies. No Python runtime, no ONNX, no TensorFlow.js.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Thomas Meissner",
+    "url": "https://github.com/TGKMeissner"
+  },
+  "homepage": "https://github.com/TGKMeissner/sklearn-to-typescript-inference",
+  "repository": "https://github.com/TGKMeissner/sklearn-to-typescript-inference",
+  "license": "MIT"
+}
